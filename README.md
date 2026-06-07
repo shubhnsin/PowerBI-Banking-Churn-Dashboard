@@ -1,5 +1,13 @@
 # 🏦 Banking Customer Churn Analysis | Power BI Dashboard
 
+## <h2>📷 Dashboard Preview</h2>
+
+<p align="center">
+  <img src="dashboard.png" width="1000">
+</p>
+
+---
+
 ## 📌 Project Overview
 
 Customer churn is one of the most important challenges faced by banks and financial institutions. Retaining existing customers is significantly more cost-effective than acquiring new ones. This project analyzes customer demographics, account characteristics, and behavioral patterns to identify factors contributing to customer churn.
@@ -176,16 +184,6 @@ Analysis performed for:
 * Age Groups
 * Credit Score Groups
 * Account Balance Groups
-
----
-
-## 📷 Dashboard Preview
-
-> Replace the image below with your dashboard screenshot.
-
-```markdown
-![Dashboard](dashboard.png)
-```
 
 ---
 
