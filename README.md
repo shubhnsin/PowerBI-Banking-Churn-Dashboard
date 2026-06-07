@@ -96,17 +96,6 @@ Data preprocessing was performed using Excel and Power Query.
 | 1              | Churned         |
 | 0              | Not Churned     |
 
-### Account Balance Groups
-
-| Balance Range | Group     |
-| ------------- | --------- |
-| 0             | 0         |
-| 1 – 1K        | 1–1K      |
-| 1K – 10K      | 1K–10K    |
-| 10K – 100K    | 10K–100K  |
-| 100K – 200K   | 100K–200K |
-| >200K         | >200K     |
-
 ---
 
 ## 🏗️ Data Modeling
